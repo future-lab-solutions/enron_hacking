@@ -105,3 +105,6 @@ venv.bak/
 
 #ignore data folder
 /data
+
+#ignore ds store for macs
+.DS_Store
