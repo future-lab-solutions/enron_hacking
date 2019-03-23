@@ -1,3 +1,5 @@
+#http://google.github.io/styleguide/pyguide.html
+
 def fetch_bigtable_rows(big_table, keys, other_silly_variable=None):
     """Fetches rows from a Bigtable.
 
